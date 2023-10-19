@@ -14,7 +14,9 @@
 **TODO:**
 - Add more information from the compromised host and report back to the server.
 - Encryption between client and server.
-- Other stuff. 
+- Some form of GUI for the server.
+- Other stuff.
+- Keep the binaries clean of static antivirus detection engines.
   
 **How to compile**
 
