@@ -6,7 +6,8 @@
                                                                                 
                                                   
 **Cheap and fast C2, nothing is encrypted, and sometimes going back to the basics yields some funny results.**
-- Tested in a lab with Defender, and it works.
+- Tested in a lab with Defender, and it works. (Security intelligence Version: AV: 1.399.939.0, AS: 1.399.939.0, NIS: 1.399.939.0
+ 	Engine Version: AM: 1.1.23090.2007, NIS: 1.1.23090.2007)
 - It would probably bypass the other EDR, who knows, if you can test it tell me.
 - Simple works fine sometimes.
 
